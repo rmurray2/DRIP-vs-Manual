@@ -33,8 +33,8 @@ The manualtest function also returns the number of transactions after the final 
 To test portfolios with more than one stock enter the list positions separated by commas. For example, to back test compare
 a portfolio consisting of ED, DBD, DOV and PPG:
 
-    m,t = manualtest([4, 5, 6, 11, 13])
-    d = driptest([4, 5, 6, 11, 13])
+    m,t = manualtest([4, 5, 6, 11])
+    d = driptest([4, 5, 6, 11])
     print 'The manual value was', m, 'and', t, 'transactions took place'
     print 'The DRIP value was', d
 
