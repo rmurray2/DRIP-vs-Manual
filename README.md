@@ -43,5 +43,5 @@ Dependendies include:
 xlrd
 
 divpaydatedata.xls (this file must be created by the user by combining the three .csv files into one spread sheet with
-pay date, ex-date and payment values as sheets 1, 2, and 3). Save the file as divpaydatedata.xls and put in the same
+pay date, ex-date and payment values as sheets 1, 2, and 3, respectively). Save the file as divpaydatedata.xls and put in the same
 directory as the .py file.
