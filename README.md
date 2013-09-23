@@ -42,4 +42,6 @@ Dependendies include:
 
 xlrd
 
-divpaydatedata.xls (for dividend pay date and value info)
+divpaydatedata.xls (this file must be created by the user by combining the three .csv files into one spread sheet with
+pay date, ex-date and payment values as sheets 1, 2, and 3). Save the file as divpaydatedata.xls and put in the same
+directory as the .py file.
