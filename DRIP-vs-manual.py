@@ -3,7 +3,6 @@ from __future__ import division
 """
 Created on Sun Jul 28 14:14:31 2013 and Tue Sep 17 19:44:12 2013
 
-@author: ryan
 """
 
 import xlrd
