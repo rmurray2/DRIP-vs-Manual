@@ -3,9 +3,6 @@ DRIP-vs-Manual
 
 A python script to compare DRIP and manual investments
 
-This script compares a DRIP investment to a manual reinvestment strategy. An article on www.seekingalpha.com was written
-based on the results (http://seekingalpha.com/article/1703972-reinvesting-dividends-vs-saving-them-and-buying-on-stock-price-drops-part-ii).
-
 Although the ticker symbols in the 'tckrlist' include:
 ['APD','MO','T','BKH','ED','DBD','DOV','BEN','LANC','NC','NWN','PPG','RPM','SWK','UBSI','UVV','WGL','ERIE','ESS','NNN','PRE']
 
